@@ -291,15 +291,6 @@ All layouts adapt properly with ResponsiveHelper utility.
 ![Responsive Design](screenshots/responsive_showcase.png)
 *Demonstrating seamless adaptation across mobile, tablet, and desktop*
 
-### Custom Features Implementation
-
-#### Heart Icons Integration
-![Heart Icons](screenshots/heart_icons_demo.png)
-*Custom asset integration with error handling fallbacks*
-
-#### Dynamic Plan Switching
-![Plan Toggle](screenshots/plan_toggle_demo.png)
-*State management with conditional rendering and pricing updates*
 
 ## 🚀 Technical Implementation Details
 
