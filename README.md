@@ -247,7 +247,7 @@ All layouts adapt properly with ResponsiveHelper utility.
 - Feature comparison with checkmarks
 
 #### Task 2: Mixer Screen
-![Mixer Screen](screenshots/mixer_screen.png)
+![Mixer Screen](https://github.com/yasuo72/assests/blob/main/Mixer.png)
 *Dynamic plan switching with custom heart icons and gradient buttons*
 
 **Features Demonstrated:**
