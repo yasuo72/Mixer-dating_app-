@@ -236,7 +236,10 @@ All layouts adapt properly with ResponsiveHelper utility.
 ### Main Screen Implementations
 
 #### Task 1: Subscription Screen
-![Subscription Screen](screenshots/subscription_screen.png)
+<div align="center">
+  <img src="https://github.com/yasuo72/assests/blob/main/Blind%20Mixer.png" alt="Blind Mixer Screen" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(94, 16, 83, 0.3); margin: 20px;">
+</div>
+
 *Pixel-perfect implementation showing purple theme, three subscription tiers, and responsive layout*
 
 **Features Demonstrated:**
@@ -247,7 +250,10 @@ All layouts adapt properly with ResponsiveHelper utility.
 - Feature comparison with checkmarks
 
 #### Task 2: Mixer Screen
-![Mixer Screen](https://github.com/yasuo72/assests/blob/main/Mixer.png)
+<div align="center">
+  <img src="https://github.com/yasuo72/assests/blob/main/Mixer.png" alt="Mixer Screen" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(94, 16, 83, 0.3); margin: 20px;">
+</div>
+
 *Dynamic plan switching with custom heart icons and gradient buttons*
 
 **Features Demonstrated:**
@@ -258,7 +264,10 @@ All layouts adapt properly with ResponsiveHelper utility.
 - Feature lists with custom styling
 
 #### Task 3: Mixer-VIP Screen
-![Mixer-VIP Screen](screenshots/mixer_vip_screen.png)
+<div align="center">
+  <img src="https://github.com/yasuo72/assests/blob/main/Mixer-VIP.png" alt="Mixer-VIP Screen" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(255, 197, 202, 0.3); margin: 20px;">
+</div>
+
 *VIP-focused layout with consistent spacing and orange gradient theme*
 
 **Features Demonstrated:**
@@ -269,7 +278,10 @@ All layouts adapt properly with ResponsiveHelper utility.
 - Pixel-perfect spacing maintained
 
 #### Task 4: Upgrade Homepage Screen
-![Homepage Screen](screenshots/homepage_screen.png)
+<div align="center">
+  <img src="https://github.com/yasuo72/assests/blob/main/Homepage-Seen%20Everyone.png" alt="Homepage Screen" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(94, 16, 83, 0.3); margin: 20px;">
+</div>
+
 *Modern homepage design with correct fonts and navigation*
 
 **Features Demonstrated:**
